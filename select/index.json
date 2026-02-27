@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "東京Friday Night",
+  "base_artist": "Joint Beauty",
+  "createdAt": "2026-02-27T13:29:05.934204Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "東京Friday Night (feat. 花澤香菜 & Mori Calliope)",
+      "artist": "Joint Beauty",
+      "has_synced": false,
+      "path": "select/pl_01_東京Friday_Night_(feat._花澤香菜_&_Mori_Calliope)_Joint_Beauty.txt"
+    }
+  ]
+}
